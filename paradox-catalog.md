@@ -1,6 +1,3 @@
-# cognitive-core
-Contextual understanding of the world via patterns and paradoxes
-
 # Paradoxes that will shape AI transformation in organizations
 
 The most consequential decisions about AI adoption hinge on understanding counterintuitive dynamics that academic literature has documented for decades—yet remain largely invisible in contemporary AI discourse. **These paradoxes explain why well-intentioned AI implementations often produce opposite effects**, from automation that increases rather than decreases human workload, to transparency that confuses rather than clarifies.
