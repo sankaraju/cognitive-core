@@ -6,6 +6,8 @@ For practitioners who understand Goodhart’s Law, these paradoxes represent the
 
 ## Bainbridge’s ironies remain unresolved after 40 years
 
+![Paradox Image](https://github.com/sankaraju/cognitive-core/blob/main/paradox/001-The%20Brainbridge%20Ironies.pdf)
+
 Lisbet Bainbridge’s 1983 paper “Ironies of Automation” in *Automatica* has attracted over 1,800 scholarly citations because its core insights keep proving prescient. The fundamental irony: **automation designed to eliminate unreliable humans creates tasks only humans can perform—but without the practice needed to perform them well**. 
 
 The paper identifies several reinforcing ironies applicable to AI. First, designers who eliminate operators because they’re unreliable must trust those same unreliable humans as system designers—yet designer errors become embedded as latent failures. Second, when automation handles routine operations, operators lose the skills needed for abnormal conditions precisely when those conditions demand more skill, not less. Bainbridge noted that “a formerly experienced operator who has been monitoring an automated process may now be an inexperienced one.” 
@@ -13,6 +15,8 @@ The paper identifies several reinforcing ironies applicable to AI. First, design
 The monitoring impossibility is particularly relevant to AI: it is humanly impossible to maintain vigilance for rare abnormalities for more than about 30 minutes, yet this is exactly what AI supervision requires. **If decisions can be fully specified, a computer can make them faster than humans can verify—leaving operators with an impossible task.**
 
 Barry Strauch’s 2017 paper in *IEEE Transactions on Human-Machine Systems* confirmed that 34 years later, Bainbridge’s ironies remain unresolved, with new ones emerging as automation advances. The Air France 447 disaster in 2009, where 228 people died when pilots accustomed to automation couldn’t manually fly after a sensor failure, demonstrates the lethal consequences of skill degradation paradoxes. 
+
+
 
 ## Automation complacency creates a vigilance trap
 
