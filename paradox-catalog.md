@@ -6,7 +6,7 @@ For practitioners who understand Goodhart’s Law, these paradoxes represent the
 
 ## Bainbridge’s ironies remain unresolved after 40 years
 
-👉🤖↔️🧠[Bainbridge paradox illustration](paradox/001-The%20-Brainbridge-Ironies.pdf) 
+👉🤖↔️🧠[Bainbridge paradox illustration](paradox/001-The-Brainbridge-Ironies.pdf) 
 📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1kAqJlr3AE8Rrepyim5uDk7syFHP5OGlK/view?usp=sharing)
 📕[Fable PDF](https://drive.google.com/file/d/12vApS-n22adIgTy9D1eNyAj1UK_FGEBo/view?usp=sharing)
 
