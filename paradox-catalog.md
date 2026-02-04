@@ -7,6 +7,8 @@ For practitioners who understand Goodhart’s Law, these paradoxes represent the
 ## Bainbridge’s ironies remain unresolved after 40 years
 
 👉🤖↔️🧠[Bainbridge paradox illustration](paradox/001-The%20Brainbridge%20Ironies.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1kAqJlr3AE8Rrepyim5uDk7syFHP5OGlK/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/12vApS-n22adIgTy9D1eNyAj1UK_FGEBo/view?usp=sharing)
 
 Lisbet Bainbridge’s 1983 paper “Ironies of Automation” in *Automatica* has attracted over 1,800 scholarly citations because its core insights keep proving prescient. The fundamental irony: **automation designed to eliminate unreliable humans creates tasks only humans can perform—but without the practice needed to perform them well**. 
 
@@ -19,6 +21,8 @@ Barry Strauch’s 2017 paper in *IEEE Transactions on Human-Machine Systems* con
 ## Automation complacency creates a vigilance trap
 
 👉🤖↔️🧠[Automation-Compacency illustration](paradox/002-Automation-Complacency.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1s1i-RS2FBG8xCMLGTmP6k3eMFK7U8GDI/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/19GtGSV907CMR75Cg_4Z-6Ypg2Q9fUq1B/view?usp=sharing)
 
 The phenomenon of automation complacency was empirically established by Raja Parasuraman and colleagues in their 1993 *International Journal of Aviation Psychology* paper. Their comprehensive 2010 review with Dietrich Manzey in *Human Factors* defined automation complacency as “sub-optimal monitoring of automation performance”—the systematic failure to adequately monitor automated systems when operators become overly trusting of reliable automation. 
 
@@ -29,6 +33,8 @@ Recent healthcare research has demonstrated automation complacency with AI speci
 ## The productivity paradox predicts AI’s delayed impact
 
 👉🤖↔️🧠[Productivity-Paradox illustration](paradox/003-Productivity-Paradox.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/17vr1IdL6WMqBU35lMZrOC0nU0Ojv-Y1t/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1brnuU1BiDBpiOAUwGmL-bczAw6RYsedj/view?usp=sharing)
 
 Robert Solow’s famous 1987 observation—“You can see the computer age everywhere but in the productivity statistics”—named a paradox that Erik Brynjolfsson has extensively analyzed in the AI context. Their 2017 NBER Working Paper “Artificial Intelligence and the Modern Productivity Paradox” demonstrates that AI is repeating the pattern: AI systems match or surpass human performance across domains, stock prices soar for AI companies, yet measured productivity growth has declined by half over the past decade. 
 
@@ -39,6 +45,8 @@ Brynjolfsson identifies a “J-Curve Effect” where early intangible capital ac
 ## Jevons’ paradox applies to AI efficiency gains
 
 👉🤖↔️🧠[Jevons-Paradox illustration](paradox/004-Jevons-Paradox.pdf)
+📖🕯️✨ [Fable GEM]( https://drive.google.com/file/d/1OZGCkvFzqPZI5k4tXuLbNs1SOuJKesy4/view?usp=sharing))
+📕[Fable PDF](https://drive.google.com/file/d/13T-sg8VJwOi5DUcwrA77pm1etbDZssHN/view?usp=sharing)
 
 William Stanley Jevons documented in 1865 that making coal more efficient paradoxically increased total coal consumption by making new applications economical. A 2025 paper by Luccioni, Strubell, and Crawford at ACM FAccT applied this directly to AI, documenting how AI efficiency gains are increasing rather than decreasing resource consumption.
 
@@ -49,6 +57,8 @@ Marc Andreessen and tech executives have explicitly invoked Jevons’ Paradox to
 ## Moravec’s paradox inverts job automation predictions
 
 👉🤖↔️🧠[Moravec's Paradox illustration](paradox/005-Moravecs-Paradox.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1str2VyeCl50bhPdkwnwYsoJv7X6Ssd9e/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1K8Bpgq7_frKd6aXyTTIFVHeFodsnVdwA/view?usp=sharing)
 
 Hans Moravec’s 1988 observation in *Mind Children* explains a persistent puzzle: AI excels at tasks humans find cognitively demanding (chess, mathematical proofs, medical diagnosis) while struggling with tasks humans find trivially easy (folding laundry, navigating cluttered environments, common-sense reasoning). The mechanism relates to evolutionary optimization time: **sensorimotor skills have been refined over millions of years while abstract reasoning is evolutionarily recent**. 
 
@@ -59,6 +69,8 @@ A 2024 MIT study found it was often “too expensive to replace human workers wi
 ## Cognitive entrenchment makes experts worse at AI adoption
 
 👉🤖↔️🧠[Cognitive Entrenchment illustration](paradox/006-Congnitive-Entenchment.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1g2TZeZEEkm7BhUyEsJk_zsBSoEKTsj69/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1BU4w89keESW0gMbYdy8m86FE5OR6dwRZ/view?usp=sharing)
 
 Erik Dane’s 2010 paper in *Academy of Management Review* defined cognitive entrenchment as “a high level of stability in one’s domain schemas.” As individuals acquire domain expertise, they develop cognitive frameworks that enable rapid pattern recognition within their domain while simultaneously reducing flexibility for novel situations. **The process that creates expert performance constrains the expert’s ability to adapt**.
 
@@ -69,6 +81,8 @@ The METR 2024 study revealed a striking perception gap: experienced developers u
 ## Algorithm aversion and automation bias create opposing errors
 
 👉🤖↔️🧠[Algorithm Reliance Paradox illustration](paradox/007-Algorithm-Reliance-Paradox.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1G_qqVE4me4yMd9s0URb4w1nSiLo8BWL4/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1M-xw1Kqir7C5BtWE4hT8yC4eHPAol1y3/view?usp=sharing)
 
 Two paradoxes from behavioral research create contradictory pressures for AI deployment. Dietvorst, Simmons, and Massey’s foundational 2015 research in *Journal of Experimental Psychology: General* documented algorithm aversion: people reject algorithms even when they demonstrably outperform human forecasters, especially after watching algorithms err. Seeing an algorithm make a mistake damages trust more than seeing a human make the same mistake. 
 
@@ -79,6 +93,8 @@ The resolution discovered by Dietvorst’s 2018 *Management Science* paper: givi
 ## Polanyi’s paradox limits AI’s reach into tacit knowledge
 
 👉🤖↔️🧠[Polanyi's Paradox illustration](paradox/008-Polanyis-Paradox.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1_EAMnKb7tR5yJMj49YH85bzqhqe9rpQ7/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1cfarhP0jceKIqj9fQDIe0M-L8p2i_eIA/view?usp=sharing)
 
 Michael Polanyi’s 1966 *The Tacit Dimension* introduced the concept that “we can know more than we can tell”—much human knowledge is intuitive and experiential rather than codifiable. David Autor named this “Polanyi’s Paradox” in his 2014 NBER paper, applying it to automation economics. Tasks involving tacit knowledge—judgment calls, contextual interpretation, adaptive expertise—resist AI automation because they cannot be articulated as programmable rules. 
 
@@ -89,6 +105,8 @@ Machine learning can sometimes infer tacit rules from data without explicit prog
 ## The illusion of explanatory depth undermines AI governance
 
 👉🤖↔️🧠[The Illustion of Explanatory Depth illustration](paradox/009-The-Illusion-of-Explanatory-Depth.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1JPvJg_fqpLyVKzXyPy3oRAThPqJ6bZpZ/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1M-fDGm0JnGIQLGaGx4ugvZBStmj2T0yT/view?usp=sharing)
 
 Rozenblit and Keil’s 2002 *Cognitive Science* paper documented that people “feel they understand complex phenomena with far greater precision, coherence, and depth than they really do.” The illusion is exposed when people are asked to actually explain something—self-rated understanding drops dramatically. 
 
@@ -99,6 +117,8 @@ Organizations should test actual understanding, not self-reported comprehension.
 ## Braess’s paradox warns that adding AI capabilities can worsen outcomes
 
 👉🤖↔️🧠[Braess's Paradox illustration](paradox/010-Braess-Paradox.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1zrvePCCnfD3jV4LaO_oeUeFIok6vozj-/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1giCfJAFqawWS7iz98h3Pb0ohK_lW1MzX/view?usp=sharing)
 
 Dietrich Braess’s 1968 paper demonstrated mathematically that adding capacity to a network can paradoxically reduce overall performance when self-interested agents each optimize their own paths. The paradox has been empirically validated in Seoul, Stuttgart, and Manhattan, where removing roads or highways improved traffic flow.
 
@@ -109,6 +129,8 @@ Valiant and Roughgarden’s 2006 research showed the paradox is “about as like
 ## Model collapse threatens recursive AI training
 
 👉🤖↔️🧠[Model Collapse illustration](paradox/011-Model-Collapse.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1PeeCreBBXqZHNzBvkU7OCK6KKtu917KT/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/1brnuU1BiDBpiOAUwGmL-bczAw6RYsedj/view?usp=sharing)
 
 Shumailov et al.’s 2024 *Nature* paper documented model collapse: when AI systems train on data generated by previous AI generations, they progressively lose information from distribution tails. Early model collapse causes loss of rare examples; late model collapse produces outputs that no longer resemble original data distributions. 
 
@@ -119,6 +141,8 @@ Organizations using AI to generate training data or considering synthetic data a
 ## Human-AI complementarity often fails in practice
 
 👉🤖↔️🧠[Human AI Complimentarity Failure illustration](paradox/012-Human-AI-Complimentarity-Failure.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1UWITV1vvTx5i75XQ8I0oxP8M3qMSVwyE/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/19GtGSV907CMR75Cg_4Z-6Ypg2Q9fUq1B/view?usp=sharing)
 
 Perhaps the most counterintuitive finding comes from Vaccaro, Almaatouq, and Malone’s 2024 meta-analysis in *Nature Human Behaviour* examining 106 studies. Human-AI systems performed **significantly worse than the best of humans or AI alone** (Hedges’ g = -0.23). The expected synergy—1+1=3—often becomes 1+1<2.
 
@@ -129,6 +153,8 @@ Organizations cannot assume “human in the loop” automatically improves outco
 ## Fairness-accuracy impossibility theorems constrain AI ethics
 
 👉🤖↔️🧠[Fairness Accuracy Impossibility illustration](paradox/012-Faireness-Accuracy-Impossibility.pdf)
+📖🕯️✨ [Fable GEM](https://drive.google.com/file/d/1RLJwKG9VtG0MWzIFt9T-EGxrgK1X0iGp/view?usp=sharing)
+📕[Fable PDF](https://drive.google.com/file/d/19y6zSEp1uWCoItH-1fuhtsT_Er44eT02/view?usp=sharing)
 
 Kleinberg, Mullainathan, and Raghavan’s 2017 ITCS paper proved mathematically that three intuitive fairness conditions— calibration, balance for the positive class, and balance for the negative class—cannot be simultaneously satisfied except with perfect prediction or equal base rates across groups. When groups have different base rates, **any risk assignment can be criticized as biased under at least one reasonable fairness definition**. 
 
